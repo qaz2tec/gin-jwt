@@ -1,4 +1,12 @@
-package controllers
+package models
 
-func main(){}
+import(
+
+
+)
+
+type User struct{
+
+	
+}
 
